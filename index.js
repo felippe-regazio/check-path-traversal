@@ -6,7 +6,7 @@ const { unescape } = require("querystring");
  * 
  * @param {string} pathname pathname to check
  * @param {string} delimiter delimiter to split
- * @param {string} limit max consecutive ocurrences
+ * @param {number} limit max consecutive ocurrences
  *
  * @returns boolean
  */
