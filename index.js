@@ -35,7 +35,7 @@ function hasStrangeConsecutiveSequences(pathname, delimiter, limit) {
  * If yes returns true, if nothing detected, false.
  * 
  * @param {string} str the path to check for traversal
- * @param {string} options object options
+ * @param {object} options object options
  * 
  * @returns boolean
  */
